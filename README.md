@@ -6,7 +6,6 @@ Only meaningful or complete examples are included to keep the repository clean a
 
 ## Contents
 
--     React Basic Concepts
 - 🧾 Investment Project
 - ⚙️ Practice Project
 - 🧠 Context & useReducer Example
