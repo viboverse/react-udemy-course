@@ -6,8 +6,9 @@ Only meaningful or complete examples are included to keep the repository clean a
 
 ## Contents
 
-- 🧾 Investment Project
-- ⚙️ Practice Project
-- 🧠 Context & useReducer Example
+- Investment Project
+- Practice Project
+- Context & useReducer Example
+- The useEffect & useCallback Example
 
 > Other drafts, sandbox experiments, or broken trials are kept locally for reference and learning but not pushed here.
